@@ -1,19 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+Check [my repository] (https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see the folder names and the uploaded files. Click index.md file, "Raw" button will lead you to the script for this page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Homeworks
 
-### Markdown
+### Homework 1
+[Zelina Genel Homework 1](file:///Users/zelina/Downloads/Zelina_Genel_IE582_HW1%20(1).html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
