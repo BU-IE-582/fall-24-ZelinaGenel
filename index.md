@@ -5,7 +5,7 @@ Check [my repository] (https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see 
 ## Homeworks
 
 ### Homework 1
-[Zelina Genel Homework 1](file:///Users/zelina/Downloads/Zelina_Genel_IE582_HW1%20(1).html)
+[Zelina Genel Homework 1]([file:///Users/zelina/Downloads/Zelina_Genel_IE582_HW1%20(1).html](https://github.com/BU-IE-582/fall-24-ZelinaGenel/blob/main/Zelina_Genel_IE582_HW1%20(1).html))
 
 
 - Bulleted
