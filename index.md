@@ -5,19 +5,9 @@ Check [my repository] (https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see 
 ## Homeworks
 
 ### Homework 1
-[Zelina Genel Homework 1](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1%20(1).html)
+[Zelina Genel Homework 1](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1.html)
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
