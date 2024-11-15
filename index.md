@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-Check [my repository] (https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see the folder names and the uploaded files. Click index.md file, "Raw" button will lead you to the script for this page.
+Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see the folder names and the uploaded files. Click index.md file, "Raw" button will lead you to the script for this page.
 
 ## Homeworks
 
 ### Homework 1
-[Zelina Genel Homework I Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1.html)
+[Homework I Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1.html)
+[Homework I R Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/HW1_Rcodes_.r)
+Note: Please note that I had trouble connecting R as Kernel to Jupyter Notebook. I tried multiple methods and sought assistance but none worked out. Hence, I am unable to submit the notebook as required. I run all codes in R and manually pasted the outputs and images to lines below. I hope to fix the problem by 2nd homework or I will use Python next time. My apologies for the inconvenience.
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
