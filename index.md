@@ -5,9 +5,11 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see t
 ## Homeworks
 
 ### Homework 1
-[Homework I Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1.html)
-[Homework I R Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/HW1_Rcodes_.r)
-Note: Please note that I had trouble connecting R as Kernel to Jupyter Notebook. I tried multiple methods and sought assistance but none worked out. Hence, I am unable to submit the notebook as required. I run all codes in R and manually pasted the outputs and images to lines below. I hope to fix the problem by 2nd homework or I will use Python next time. My apologies for the inconvenience.
+- [Homework I Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW1.html)
+
+- [Homework I R Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/HW1_Rcodes_.r)
+
+*Please note that I had trouble connecting R as Kernel to Jupyter Notebook. I tried multiple methods and sought assistance but none worked out. Hence, I am unable to submit the notebook as required. I run all codes in R and manually pasted the outputs and images to lines below. I hope to fix the problem by 2nd homework or I will use Python next time. My apologies for the inconvenience.
 
 
 ### Support or Contact
