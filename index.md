@@ -12,7 +12,7 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see t
 *Please note that I had trouble connecting R as Kernel to Jupyter Notebook. I tried multiple methods and sought assistance but none worked out. Hence, I am unable to submit the notebook as required. I run all codes in R and manually pasted the outputs and images to lines below. I hope to fix the problem by 2nd homework or I will use Python next time. My apologies for the inconvenience.
 
 ### Homework II
-- [Homework II Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2.html)
+- [Homework II Report](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW-2.html)
 - [Homework II Python Codes - Task 1](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2.py)
 - [Homework II Python Codes - Task 2](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task2.py)
 - [Homework II Python Codes - Task 3](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task3.py)
