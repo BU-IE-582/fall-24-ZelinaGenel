@@ -18,10 +18,10 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see t
 - [Homework II Python Codes - Task 3](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task3.py)
   
 ### Project
-- [Project Report (HTML)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelineGenel.html)
-- [Project Report (PDF)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelineGenel.pdf)
-- [Project Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelineGenel.html)
-- [Project Codes (ipynb)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelineGenel.ipynb)
+- [Project Report (HTML)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelinaGenel.html)
+- [Project Report (PDF)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelinaGenel.pdf)
+- [Project Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelinaGenel.html)
+- [Project Codes (ipynb)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelinaGenel.ipynb)
 
 ### Support or Contact
 
