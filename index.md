@@ -17,7 +17,7 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see t
 - [Homework II Python Codes - Task 2](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task2.py)
 - [Homework II Python Codes - Task 3](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task3.py)
   
-### Project
+### Project (Group with Derin Cagan Temeltas - 2022702138)
 - [Project Report (HTML)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelinaGenel.html)
 - [Project Report (PDF)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelinaGenel.pdf)
 - [Project Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelinaGenel.html)
