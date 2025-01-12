@@ -17,6 +17,12 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-ZelinaGenel) to see t
 - [Homework II Python Codes - Task 2](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task2.py)
 - [Homework II Python Codes - Task 3](https://bu-ie-582.github.io/fall-24-ZelinaGenel/Zelina_Genel_IE582_HW2_task3.py)
   
+### Project
+- [Project Report (HTML)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelineGenel.html)
+- [Project Report (PDF)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Report_DerinTemeltas_ZelineGenel.pdf)
+- [Project Codes](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelineGenel.html)
+- [Project Codes (ipynb)](https://bu-ie-582.github.io/fall-24-ZelinaGenel/IE582_Project_Code_DerinTemeltas_ZelineGenel.ipynb)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
